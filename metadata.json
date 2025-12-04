@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Copy of Velas Resorts Access Control",
+  "name": "Velas Resorts Access Control - V1",
   "description": "Sistema de registro de visitas y control de acceso para Velas Resorts con captura de fotografía y alertas de tiempo.",
   "requestFramePermissions": [
     "camera"
